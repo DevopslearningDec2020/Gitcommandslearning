@@ -1,0 +1,1 @@
+hai wlecome string functions
